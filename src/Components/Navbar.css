@@ -18,6 +18,9 @@
     padding: 0 1rem;
 }
 
+.header .nav-menu a {
+    color: black;
+}
 .header .navbar img {
     width: 90px;
     height: auto;
@@ -31,12 +34,11 @@
 .header .nav-item {
     padding: 1rem;
     font-weight: 400;
-    
 }
 
-.header .nav-item a:hover{
+.header .nav-item a:hover {
     padding-bottom: 12px;
-    border-bottom: 3px solid var(--secondary-color);
+    border-bottom: 3px solid var(--primary-color);
 }
 
 .hamburger {
@@ -60,7 +62,7 @@
     .nav-menu{
         position: fixed;
         left: -100%;
-        top: 5rem;
+        top: 90px;
         flex-direction: column;
         background-color: rgba(234,234,234,.8);
         width: 100%;
