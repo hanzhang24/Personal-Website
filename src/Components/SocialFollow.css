@@ -1,0 +1,17 @@
+.social-container {
+    
+}
+a.Social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+a.Social:hover {
+    transform: translateY(-2px);
+}
+a.LinkedIn {
+    color: white;
+}
+a.Github {
+    color: white;
+}
