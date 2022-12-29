@@ -3,7 +3,7 @@
   --primary-dark: #0d4122;
   --secondary-color: #ffea00;
   --secondary-dark: #e3d002;
-  --overlay: rgb(0,0,0,.7);
+  --overlay: rgb(0,0,0,0.4);
 }
 
 *{
