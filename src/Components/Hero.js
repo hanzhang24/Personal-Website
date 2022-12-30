@@ -8,6 +8,7 @@ const Hero = () => {
         <div className='content'>
             <p>Hello!</p>
             <p>My Name is Han Zhang</p>
+            <p>I am a ECE/CS Major at Duke University </p>
             <button href='/' className='button'>Contact Me</button>
         </div>
     </div>
